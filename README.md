@@ -18,7 +18,6 @@ I took this dataset, cleaned it using Power Query, and ran some exploratory data
 ### First Page: Summary/Highlights
  - Most Recommended Movie and Genre - Card
  - Most Common Locales and Ratings - Card
- - 
 ### Second Page: Genre Analysis
  - Genre Distribution - Radar map
  - Genre Word Cloud Visualization
